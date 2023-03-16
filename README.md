@@ -6,7 +6,7 @@ Liquibase helps millions of developers track, version, and deploy database schem
 - Eliminate errors and delays when releasing databases
 - Automatically order scripts for deployment
 - Easily rollback changes
-- Collaborate with tools you already use
+- Collaborate with tools you already useaAXASACVSBF
 
 This repository contains the main source code for Liquibase Open Source. For more information about the product, see the [Liquibase website](https://www.liquibase.com/).
 
